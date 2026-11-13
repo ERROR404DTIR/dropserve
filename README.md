@@ -1,4 +1,6 @@
 <p align="center">
+
+<p align="center"><img src="assets/readme-banner.svg" alt="Animated Dropserve local file transfer banner" width="100%"></p>
   <img src="assets/dropserve.svg" alt="dropserve — private file sharing on your LAN" width="100%">
 </p>
 
